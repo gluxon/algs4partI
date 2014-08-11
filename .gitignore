@@ -1,1 +1,11 @@
+# OS X
 .DS_Store
+
+# Eclipse
+.project
+.settings
+.classpath
+*/.gitignore
+
+# Java
+.class
